@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Functional Genomics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Proteomics"
+    ]
+  ],
+  "legacy_uid": "4bde5913-9685-983e-dbea-3eb8c7314d86",
+  "instructors": {
+    "content": [
+      "4bf88497-1d93-d26e-cd53-b08770c14b56",
+      "ac5ab5d2-7a62-6478-6a03-35ff5cfe3174",
+      "63a380d1-34a3-9045-50b4-8056c86551da",
+      "9de092e0-8741-2100-44d9-244cf5bef242"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a60722d2-3ca2-8163-afe3-21c92a6d0703",
+    "website": "hst-508-quantitative-genomics-fall-2005"
+  },
+  "course_title": "Quantitative Genomics",
+  "course_description": "This course provides a foundation in the following four areas: evolutionary and population genetics; comparative genomics; structural genomics and proteomics; and functional genomics and regulation.\n",
+  "department_numbers": [
+    "HST"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "HST.508",
+  "course_image_thumbnail": {
+    "content": "addec90c-20af-ae00-c7cc-a1d3bec05242",
+    "website": "hst-508-quantitative-genomics-fall-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "07ced241-8e3d-440c-8d55-f9e501383e51",
+  "site_short_id": "hst.508-fall-2005",
+  "title": "Course Metadata"
+}
